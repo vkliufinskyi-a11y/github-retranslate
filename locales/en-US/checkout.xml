@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <greeting>Welcome back</greeting>
-  <logout>Sign out</logout>
-  <save>Save changes</save>
-  <remove>Remove account</remove>
+  <title>Notification settings</title>
+  <email>Email alerts</email>
+  <mute>Mute for one hour</mute>
+  <apply>Apply settings</apply>
 </root>
