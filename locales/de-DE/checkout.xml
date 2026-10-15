@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <cart>Warenkorb FALSCH</cart>
-  <pay>Jetzt bezahlen</pay>
-  <total>Gesamt</total>
+  <greeting>Willkommen zurück</greeting>
+  <logout>Abmelden</logout>
+  <save>Änderungen verwerfen</save>
+  <remove>Konto entfernen</remove>
 </root>
