@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <cart>Panier</cart>
-  <pay>Payer maintenant</pay>
-  <total>Total</total>
+  <greeting>Bon retour</greeting>
+  <logout>Se déconnecter</logout>
+  <save>Enregistrer les modifications</save>
+  <remove>Supprimer le compte</remove>
 </root>
