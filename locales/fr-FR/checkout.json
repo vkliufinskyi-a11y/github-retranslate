@@ -1,1 +1,6 @@
-{ "title": "Paramètres de notification", "email": "Alertes par e-mail", "mute": "Mettre en sourdine pendant une heure", "apply": "Appliquer les paramètres" }
+{
+  "title": "Notification settings",
+  "email": "Email alerts",
+  "mute": "Mute for one hour",
+  "apply": "Apply settings"
+}
