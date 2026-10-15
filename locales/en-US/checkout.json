@@ -1,1 +1,1 @@
-{ "greeting": "Welcome back", "logout": "Sign out", "save": "Save changes", "remove": "Remove account" }
+{ "title": "Notification settings", "email": "Email alerts", "mute": "Mute for one hour", "apply": "Apply settings" }
