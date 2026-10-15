@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <title>Paramètres de notification</title>
-  <email>Alertes par e-mail</email>
-  <mute>Mettre en sourdine pendant une heure</mute>
-  <apply>Appliquer les paramètres</apply>
+  <title>Bon retour</title>
+  <email>Se déconnecter</email>
+  <mute>Enregistrer les modifications</mute>
+  <apply>Supprimer le compte</apply>
 </root>
