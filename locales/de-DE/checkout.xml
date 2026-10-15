@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <greeting>Willkommen zurück</greeting>
-  <logout>Abmelden</logout>
-  <save>Änderungen verwerfen</save>
-  <remove>Konto entfernen</remove>
+  <greeting>Welcome back</greeting>
+  <logout>Sign out</logout>
+  <save>Save changes</save>
+  <remove>Remove account</remove>
 </root>
