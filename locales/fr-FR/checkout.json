@@ -1,1 +1,1 @@
-{ "greeting": "Bon retour", "logout": "Se déconnecter", "save": "Enregistrer les modifications", "remove": "Supprimer le compte" }
+{ "title": "Paramètres de notification", "email": "Alertes par e-mail", "mute": "Mettre en sourdine pendant une heure", "apply": "Appliquer les paramètres" }
