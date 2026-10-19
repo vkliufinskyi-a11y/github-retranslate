@@ -1,1 +1,6 @@
-{ "title": "Benachrichtigungseinstellungen", "email": "E-Mail-Benachrichtigungen", "mute": "Für einen Tag stummschalten", "apply": "Einstellungen übernehmen" }
+{
+  "title": "Benachrichtigungseinstellungen",
+  "email": "E-Mail-Benachrichtigungen",
+  "mute": "Für eine Stunde stummschalten",
+  "apply": "Einstellungen übernehmen"
+}
